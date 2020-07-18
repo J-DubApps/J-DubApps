@@ -6,7 +6,7 @@
 
 I am Julian. I am a senior network and cloud engineer-architect in Dallas, Texas USA.
 
-- 🔭 I’m currently working on Cico Viptela SDWAN, Python, Powershell, and Microsoft Endpoint Configuration Manager.
+- 🔭 I’m currently working on Cisco Viptela SDWAN, Python, Powershell, and Microsoft Endpoint Configuration Manager.
 - 🌱 I’m currently learning Swift, Distributed Systems, and Software Defined Networking.
 - 👯 I’m always looking to collaborate on fun projects.
 - 💬 Ask me about Network design and Cloud Architecture.
