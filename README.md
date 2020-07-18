@@ -10,7 +10,7 @@ I am Julian. I am also a senior network and cloud engineer-architect in Dallas, 
 - 🌱 I’m currently learning Swift, Distributed Systems, and Software Defined Networking.
 - 👯 I’m always looking to collaborate on fun projects.
 - 💬 Ask me about Network design and Cloud Architecture.
-- 📫 How to reach me: west.julian@me.com or [J-DubApps] (twitter.com/julian_west)
+- 📫 How to reach me: west.julian@me.com or [J-DubApps](twitter.com/julian_west)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once met Quentin Tarantino and William Shatner.  Not at the same time.  I also play guitar and ukelele for fun.
 
