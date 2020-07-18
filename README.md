@@ -6,7 +6,7 @@
 
 I am Julian. I am also a senior network and cloud-architect based in Dallas, Texas USA.
 
-- 🔭 I’m currently working on Python, PowerShell, Cisco Viptela, Microsoft Endpoint Configuration Manager, and vSphere.
+- 🔭 I’m currently working on Python, PowerShell, Cisco Viptela, MECM/SCCM/MDT, and vSphere.
 - 🌱 I’m currently learning Swift, Distributed Systems, and Software Defined Networking.
 - 👯 I’m always looking to collaborate on fun projects.
 - 💬 Ask me about Network Design and Cloud Architecture.
