@@ -1,4 +1,4 @@
-<img src="https://github.com/J-DubApps/J-DubApps/blob/master/FullSizeRender.jpeg" width="800" height="380" alt="Routers">
+<img src="https://github.com/J-DubApps/J-DubApps/blob/master/FullSizeRender.jpeg" width="700" height="300" alt="Routers">
 
 
 
