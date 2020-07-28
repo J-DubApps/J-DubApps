@@ -16,5 +16,7 @@ I am Julian. I am also a senior network and cloud-architect based in Dallas, Tex
 - 💬 Ask me about Network Design and Cloud Architecture.
 - 📫 How to reach me: [Email](mailto:jdub.writes.code@gmail.com), or [Twitter](https://twitter.com/julian_west)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once met Quentin Tarantino and William Shatner.  Not at the same time.  I also play guitar and ukelele.
+- ⚡ Fun fact 1 : I once met Quentin Tarantino and William Shatner.  Not at the same time.
+- ⚡ Fun fact 2 : I only used GitHub & Repos for code-storage, and forks, for 8 years. I did my first Pull Request in 2020. 😄
+- ⚡ Fun fact 3 : I also play guitar and ukelele.
 
