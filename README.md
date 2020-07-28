@@ -17,6 +17,6 @@ I am Julian. I am also a senior network and cloud-architect based in Dallas, Tex
 - 📫 How to reach me: [Email](mailto:jdub.writes.code@gmail.com), or [Twitter](https://twitter.com/julian_west)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact 1 : I once met Quentin Tarantino and William Shatner.  Not at the same time.
-- ⚡ Fun fact 2 : I only used my GitHub Repos for private projects and forks. After 8 years I did my first Pull Request. 😄
+- ⚡ Fun fact 2 : I mainly use my GitHub Repos for private projects and forks. Took 8 years to do my first Pull Request. 😄
 - ⚡ Fun fact 3 : I also play guitar and ukelele.
 
