@@ -8,7 +8,7 @@
 **J-DubApps/J-DubApps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am Julian. I am also a senior network and cloud-architect based in Dallas, Texas USA.
+I am Julian. I am also a senior Network and Cloud-Architect based in Dallas, Texas USA.
 
 - 🔭 I’m currently working on Python, PowerShell, Cisco Viptela, MECM/SCCM/MDT, and vSphere.
 - 🌱 I’m currently learning Swift, Distributed Systems, and Software Defined Networking.
