@@ -13,7 +13,7 @@ In addition to design & engineering, I am also an Infrastructure PM - managing h
 resources to deploy systems projects ranging from private DMVPN clouds to Azure based cloud tenants.
 
 - 🔭 I’m currently working on Python, PowerShell, Cisco Viptela, MECM, InTune, and Azure.
-- ⚙️ My principle skills = Configuration Management, Networking, DevOps, and Project Mgmt (PMI certified PM 8 years running).
+- ⚙️ My principle skills = Configuration Management, Networking, DevOps, and Project Mgmt (PMI certified PM 8 yrs running).
 - 🌱 I'm currently learning Swift, Distributed Systems, and Software Defined Networking.
 - 👯 I’m always looking to collaborate on fun software engineering projects.
 - 💬 Ask me about Network Design, Cloud Architecture, or CI/CD DevOps.
