@@ -10,7 +10,7 @@
 
 I am Julian. I am also a Network & Cloud-Architect based in Dallas, Texas USA.<br>
 In addition to design & engineering, I am also an Infrastructure PM - managing human and budgetary
-resources to deploy systems projects ranging from private DMVPN clouds to Azure based cloud tenants.
+resources to deploy systems projects ranging from private SD/DMVPN clouds to Azure and AWS cloud tenants.
 
 - 🔭 I’m currently working on Python, PowerShell, Cisco Viptela, MECM, InTune, and Azure.
 - ⚙️ My principle skills = Configuration Management, Networking, DevOps, and Project Mgmt (PMI certified PM 8 yrs running).
