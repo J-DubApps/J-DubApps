@@ -20,6 +20,6 @@ resources with other IT PMs to deploy systems projects ranging from private SD/D
 - 📫 How to reach me: jdub.writes.some.code(at)gmail(dot)com, or [BlueSky](https://bsky.app/profile/julianwest.me).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact 1 : I once met Quentin Tarantino and William Shatner.  Not at the same time.
-- ⚡ Fun fact 2 : I mainly use my GitHub Repos for private projects and forks. Took 8 years to do my first Pull Request. 😄
+- ⚡ Fun fact 2 : I mainly use my GitHub Repos for private projects and forks. Took 2 years to do my first Pull Request. 😄
 - ⚡ Fun fact 3 : I also play guitar and ukelele.
 
