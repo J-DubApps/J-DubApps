@@ -17,7 +17,7 @@ resources with other IT PMs to deploy systems projects ranging from private SD/D
 - 🌱 I'm currently learning Swift, Distributed Systems, and Software Defined Networking.
 - 👯 I’m always looking to collaborate on fun software engineering projects.
 - 💬 Ask me about Network Design, Cloud Architecture, or CI/CD DevOps.
-- 📫 How to reach me: jdub.writes.some.code(at)gmail(dot)com, or [BlueSky]([https://twitter.com/julian_west](https://bsky.app/profile/julianwest.me)
+- 📫 How to reach me: jdub.writes.some.code(at)gmail(dot)com, or [BlueSky]([https://bsky.app/profile/julianwest.me])
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact 1 : I once met Quentin Tarantino and William Shatner.  Not at the same time.
 - ⚡ Fun fact 2 : I mainly use my GitHub Repos for private projects and forks. Took 8 years to do my first Pull Request. 😄
