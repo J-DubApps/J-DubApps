@@ -8,7 +8,7 @@
 **J-DubApps/J-DubApps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am Julian. I am also a Network & Cloud-Architect based in Dallas, Texas USA.<br>
+I am Julian. I am also a Cloud-Architect and PM based in Dallas, Texas USA.<br>
 In addition to design & engineering, I am also an Infrastructure PM - managing human and budgetary
 resources with other IT PMs to deploy systems projects ranging from private SD/DMVPN clouds to Azure and AWS cloud tenants.
 
