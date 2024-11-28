@@ -9,7 +9,7 @@
 -->
 
 I am Julian. I am also a Cloud-Architect based in Dallas, Texas USA.<br>
-In addition to design & engineering, I am also an Infrastructure PM, and manage human and budgetary
+In addition to design & engineering I am also an Infrastructure PM, managing human and budgetary
 resources with other IT PMs to deploy systems projects ranging from private SD/DMVPN clouds to Azure and AWS cloud tenants.
 
 - 🔭 I’m currently working on projects involving Python, PowerShell, MECM, InTune, and Azure.
