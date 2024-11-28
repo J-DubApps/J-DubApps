@@ -1,3 +1,11 @@
+<style type="text/css">
+        .e-mail:before {
+            content: attr(data-website) "\0040" attr(data-user);
+            unicode-bidi: bidi-override;
+            direction: rtl;
+        }
+    </style>
+    
 <img src="https://github.com/J-DubApps/J-DubApps/blob/master/FullSizeRender.jpeg" width="700" height="300" alt="Routers">
 
 
@@ -17,7 +25,7 @@ resources with other IT PMs to deploy systems projects ranging from private SD/D
 - 🌱 I'm currently learning Swift, Distributed Systems, and Software Defined Networking.
 - 👯 I’m always looking to collaborate on fun software engineering projects.
 - 💬 Ask me about Network Design, Cloud Architecture, or CI/CD DevOps.
-- 📫 How to reach me: jdub.writes.some.code(at)gmail(dot)com, or [BlueSky](https://bsky.app/profile/julianwest.me).
+- 📫 How to reach me: <a href="mailto:%6A%64%75%62%2E%77%72%69%74%65%73%2E%73%6F%6D%65%2E%63%6F%64%65%40%67%6D%61%69%6C%2E%63%6F%6D">jdub.writes.some.code(at)gmail(dot)com</a>, or [BlueSky](https://bsky.app/profile/julianwest.me).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact 1 : I once met Quentin Tarantino and William Shatner.  Not at the same time.
 - ⚡ Fun fact 2 : I mainly use my GitHub Repos for private projects and forks. Took 2 years to do my first Pull Request. 😄
