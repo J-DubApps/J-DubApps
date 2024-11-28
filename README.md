@@ -1,11 +1,3 @@
-<style type="text/css">
-        .e-mail:before {
-            content: attr(data-website) "\0040" attr(data-user);
-            unicode-bidi: bidi-override;
-            direction: rtl;
-        }
-    </style>
-    
 <img src="https://github.com/J-DubApps/J-DubApps/blob/master/FullSizeRender.jpeg" width="700" height="300" alt="Routers">
 
 
