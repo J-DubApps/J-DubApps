@@ -22,6 +22,6 @@ resources with other IT PMs to deploy systems projects ranging from private SD/D
 - ✍🏻 I blog at [@julianwest.me](https://julianwest.me/Blog).
 - 😄 Pronouns: He/Him. Sometimes He/Haw.
 - ⚡ Fun fact 1 : I once met Quentin Tarantino and William Shatner.  Not at the same time.
-- ⚡ Fun fact 2 : I mainly use my GitHub Repos for private projects. Took 2 yrs for my first Pull Request. 😄
+- ⚡ Fun fact 2 : I mainly use my Repos for private projects. Took 2 yrs for my first Pull Request. 😄
 - ⚡ Fun fact 3 : I also play guitar and ukelele.
 
