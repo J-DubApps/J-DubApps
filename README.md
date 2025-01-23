@@ -13,7 +13,7 @@ In addition to design & engineering I am also an Infrastructure PM, managing hum
 resources with other IT PMs to deploy systems projects ranging from private SD/DMVPN clouds to Azure and AWS cloud tenants.
 
 - 🔭 I’m currently working on projects involving Python, PowerShell, MECM, InTune, and Azure.
-- ⚙️ My principle skills = Configuration Management, Networking, DevOps, and Project Mgmt (PMI certified 10 yrs running).
+- ⚙️ [***My principle skills***](https://julianwest.me/Resume/) = Configuration Management, Networking, DevOps, and Project Mgmt (PMI certified 10 yrs running).
 - 🌱 I'm currently learning Swift, Distributed Systems, and Software Defined Networking.
 - 👯 I’m always looking to collaborate on fun software engineering projects.
 - 💬 Ask me about Network Design, Cloud Architecture, or CI/CD DevOps.
